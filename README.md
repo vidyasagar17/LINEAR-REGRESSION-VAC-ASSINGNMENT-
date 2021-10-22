@@ -1,6 +1,6 @@
 #LINEAR REGRESSION ON FLIGHT DATA
 
-## The following steps have been performed
+##The following steps have been performed
 *Step 1: Reading and understanding the Data
 
 *Step 2: Exploratory Data Analysis
